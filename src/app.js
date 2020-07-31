@@ -10,6 +10,7 @@ class App {
 
     this.middlewares();
     this.routes();
+    
   }
 
   middlewares() {
